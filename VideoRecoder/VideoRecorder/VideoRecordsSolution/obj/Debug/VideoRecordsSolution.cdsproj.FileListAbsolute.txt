@@ -1,0 +1,2 @@
+C:\Arnove\PCFControls\VideoRecoder\VideoRecorder\VideoRecordsSolution\obj\Debug\VideoRecordsSolution.cdsproj.AssemblyReference.cache
+C:\Arnove\PCFControls\VideoRecoder\VideoRecorder\VideoRecordsSolution\obj\Debug\VideoRecordsSolution.cdsproj.CoreCompileInputs.cache

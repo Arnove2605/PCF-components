@@ -1,0 +1,20 @@
+2025-04-25 12:38:46.383 - Info	
+Packing C:\Arnove\PCFControls\VideoRecoder\VideoRecorder\VideoRecordsSolution\obj\Debug\Metadata to bin\Debug\VideoRecordsSolution.zip
+
+2025-04-25 12:38:46.405 - Info	Processing Component: Entities
+2025-04-25 12:38:46.408 - Info	Processing Component: Roles
+2025-04-25 12:38:46.410 - Info	Processing Component: Workflows
+2025-04-25 12:38:46.411 - Info	Processing Component: FieldSecurityProfiles
+2025-04-25 12:38:46.412 - Info	Processing Component: Templates
+2025-04-25 12:38:46.414 - Info	Processing Component: EntityMaps
+2025-04-25 12:38:46.415 - Info	Processing Component: EntityRelationships
+2025-04-25 12:38:46.421 - Info	Processing Component: OrganizationSettings
+2025-04-25 12:38:46.422 - Info	Processing Component: optionsets
+2025-04-25 12:38:46.422 - Info	Processing Component: CustomControls
+2025-04-25 12:38:46.437 - Info	 - VideoRecorder.VideoRecorder
+2025-04-25 12:38:46.469 - Info	Processing Component: SolutionPluginAssemblies
+2025-04-25 12:38:46.471 - Info	Processing Component: EntityDataProviders
+2025-04-25 12:38:46.474 - Info	Processing Sharded Component Files
+2025-04-25 12:38:46.509 - Info	
+Unmanaged Pack complete.
+

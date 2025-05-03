@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+  <control namespace="VideoRecorder" constructor="VideoRecorder" version="0.0.1" display-name-key="VideoRecorder" description-key="VideoRecorder description" control-type="standard" api-version="1.3.16">
+    <external-service-usage enabled="false"/>
+    <property name="videoUrl" display-name-key="Video URL" description-key="Property_Desc_Key" of-type="SingleLine.Text" usage="bound" required="true"/>
+    <resources>
+      <code path="bundle.js" order="1"/>
+    </resources>
+    <feature-usage/>
+    <built-by name="pac" version="1.42.1"/>
+  </control>
+</manifest>
