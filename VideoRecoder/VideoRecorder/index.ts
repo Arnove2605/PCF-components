@@ -121,7 +121,7 @@ export class VideoRecorder implements ComponentFramework.StandardControl<IInputs
             console.log("Sending filename:", fileName);
     
             try {
-                const response = await fetch("https://prod-14.centralindia.logic.azure.com:443/workflows/21547afd4894460a88b9221a249f5a40/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=MR1CosjZY0G_UW4KLiQdqNJEu4RmERCh7hPbRopYges", {
+                const response = await fetch("Your_Power_Automate_Http_Request_Url", {
                     method: "POST",
                     headers: {
                         "Content-Type": "application/json"
